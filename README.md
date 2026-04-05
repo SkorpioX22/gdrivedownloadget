@@ -1,4 +1,4 @@
-# [gdrivedownloadget](https://skorpiox22.github.io/gdrivedownloadget/)
+# [gdrivedownloadget 🔗](https://skorpiox22.github.io/gdrivedownloadget/)
 Get a direct download link for any Google Drive File. Conversions happen locally. 
 
 ![License: Evaluation Only](https://img.shields.io/badge/License-Evaluation%20Only-red)
